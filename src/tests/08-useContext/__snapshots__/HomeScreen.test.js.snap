@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente <HomeScreen /> Debe mostarse correctamente 1`] = `
+<div>
+  <h1>
+    HomeScreen
+  </h1>
+  <hr />
+  <pre>
+    {
+  "name": "Deymer",
+  "email": "deymer@gmail.com"
+}
+  </pre>
+  <div
+    className="container-fluid"
+  >
+    <button
+      className="btn btn-outline-danger"
+      onClick={[Function]}
+    >
+      Logout
+    </button>
+  </div>
+</div>
+`;

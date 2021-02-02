@@ -14,7 +14,7 @@ export const LoginScreen = () => {
     <div>
       <h1>LoginScreen</h1>
       <hr />
-      <div className="btn btn-primary" onClick={Login}>Login</div>
+      <button className="btn btn-primary" onClick={Login}>Login</button>
     </div>
   );
 };

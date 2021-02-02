@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import { MultipleCustomHooks } from '../example/MultipleCustomHooks';
+import { MultipleCustomHooks } from '../03-example/MultipleCustomHooks';
 
 export const RealExcampleCustomHook = () => {
-  const [show, setShow] = useState(true);
+  const [show, setShow] = useState(false);
   return (
     <div>
       <h1>RealExcampleRef</h1>

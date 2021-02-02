@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componentes <MultipleCustomHooks /> Debe mostrar el componente correctamente 1`] = `
+<div>
+  <h1>
+    BreakingBad Quotes
+  </h1>
+  <hr />
+  <p
+    className="alert alert-info text-center"
+  >
+    Loading...
+  </p>
+</div>
+`;
